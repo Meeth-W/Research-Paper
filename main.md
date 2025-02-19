@@ -229,7 +229,7 @@ Word embeddings are a fundamental component of the Transformer's input processin
 2. Paper: [Unveiling the Convenience and Drawbacks of Artificial Intelligence (AI) in Education](https://ieeexplore.ieee.org/document/10844614)
 3. Article: [5 Pros and Cons of AI in the Education Sector](https://www.waldenu.edu/programs/education/resource/five-pros-and-cons-of-ai-in-the-education-sector)
 4. Guidelines: [ISTE Guidelines for AI In Education](https://iste.org/ai)
-5. Paper: [UNESCO's Position Paper on AI in Education](https://unesdoc.unesco.org/ark:/48223)
+5. Paper: [UNESCO's Position Paper on AI in Education](https://unesdoc.unesco.org/ark:/48223) https://doi.org/10.54675/PCSP7350
 6. Article: [Systematic review of research on artificial intelligence applications in higher education – where are the educators?](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-019-0171-0)
 7. Article: [Ethics of AI in Education: Towards a Community-Wide Framework](https://link.springer.com/article/10.1007/s40593-021-00239-1)
 8. Paper: [Large language models in education: A focus on the complementary relationship between human teachers and ChatGPT](https://link.springer.com/article/10.1007/s10639-023-11834-1)
